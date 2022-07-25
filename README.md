@@ -1,1 +1,3 @@
-# ge0tic_movil
+# ge0tic
+
+En desarrollo...
